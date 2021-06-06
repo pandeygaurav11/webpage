@@ -1,0 +1,211 @@
+
+
+body{
+  margin: 0;
+  padding-top: 0;
+
+}
+P{
+  font-size: 35PX;
+  width: 100%;
+  font-family: 'Special Elite', cursive;
+  COLOR:#323232;
+}
+
+.top-container{
+    text-align: center;
+  width:100%;
+  height:140VH;;
+  padding: 0;
+  background-image: url(21.jpg);
+  background-size: cover;
+  display:inline-block;
+  padding-bottom: 10px;
+}
+.name-profile{
+  width:100%;
+  position: absolute;
+  right:35px;
+  padding: 0px;
+  margin: 0;
+
+}
+.mid-container{
+  width: 100%;
+  height:150%vh;
+  background-image: url(3.jpg);
+  background-size:cover;
+  position: relative;
+  font-size: 20px;
+  margin: 0;
+  padding-top: 50px;
+  margin-top: 0;
+}
+.middle-container{
+  width:100%;
+  height:90vh;
+
+}
+.profile{
+  color:#eae7af;
+  position: absolute;
+  top:170px;
+  left: 20px;
+}
+
+.sam{
+position: absolute;
+RIGHT:80px;
+top: 20px;
+
+}
+#Personal-life{font-size: 40px;
+  position: absolute;
+  left:70px;
+  font-family: 'Nixie One', cursive;
+  color:#e1f4f3;
+  top:30px;
+
+}
+.MILITARY-SERVICE{
+  position:relative;
+
+  width:100%;
+  height: 100vh;
+}
+.service{position: absolute;
+  left: 40px;
+  bottom: 80px;
+}
+.military{
+position: absolute;
+bottom:130px;
+left:490px;
+color:#eae7af;
+}
+#header{
+  position: absolute;
+  left:500px;
+}
+
+
+
+h4{font-size: 40px;
+  position: absolute;
+  left:70px;
+  font-family: 'Nixie One', cursive;
+  color:#e1f4f3;
+
+}
+.AWARDS{
+  width:100%;
+  height:130vh;
+
+}
+.military-cross{
+  width:150px;
+  height:150px;
+}
+.bmc{
+  position: absolute;
+  right: 99px;
+bottom: 450px;
+}
+.padam-bhushan{
+  position: absolute;
+  right:140px;
+  bottom: 150px;
+}
+.padam-vibhushan{
+  position: absolute;
+  right:   370px;
+  bottom: 420px;
+}
+.image{
+  width:100%
+  height:80vh;
+}
+#name{
+  position: absolute;
+  left:500px;;
+
+}
+#pride{
+  position: absolute;
+  bottom: 200px;
+font-size: 30px;
+left: 50PX;
+color: #e1f4f3;
+}
+.contact-me{
+  width  :100%;
+  height:50vh;
+  background-image: url(33.jpg);
+text-align: center;
+padding-top:50px;
+position:relative;
+}
+#hf{position: absolute;
+  font-family: 'Audiowide', cursive;
+  color: #aad8d3;
+  top:1px ;
+  left:550px;
+
+}
+
+
+#cr{
+  font-size:10px;
+  position: absolute;
+  color:yellow;
+  bottom: 2px;
+}
+#n{
+  color:#f8f5f1;
+}
+#college{
+  color:#f8f5f1;
+}
+#MM{
+  font-size: 30px;
+  color: #e1f4f3;
+  left: 50PX;
+
+}
+#cs{
+    color:#f8f5f1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h5{position:relative;
+  left: 50px;
+  bottom:20px;
+  font-size: 30px;
+  font-family: 'Yeseva One', cursive;
+}
+h1{
+font-size:45px;
+font-family: 'Audiowide', cursive;
+}
+h2{
+font-size: 35px;
+text-decoration: underline;
+}
+h3{
+font-size: 35px;
+font-family: 'Special Elite', cursive;
+COLOR:#323232;
+}
